@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../fonts/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bilibili-line:before {
+  content: "\e75d";
+}
+
+.icon-youtube:before {
+  content: "\e7b2";
+}
+
+.icon-qq:before {
+  content: "\e55b";
+}
+
+.icon-steam:before {
+  content: "\e569";
+}
+
+.icon-twitter-circle-fill:before {
+  content: "\ea90";
+}
+
+.icon-up-circle-fill:before {
+  content: "\eb22";
+}
+
+.icon-GitHub:before {
+  content: "\e5b7";
+}
+
+.icon-goutou:before {
+  content: "\e60d";
+}
+
